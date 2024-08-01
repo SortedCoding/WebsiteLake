@@ -21,10 +21,10 @@ Registration :
 ![screenshot](lake3.png)
 
 Login :
-![screenshot](lake3.png)
+![screenshot](lake4.png)
 
 Registration :
-![screenshot](lake4.png)
+![screenshot](lake5.png)
 
 Raw Image:
 ![screenshot](landscape-trees-mountains-clouds-digital-art-38.jpg)
